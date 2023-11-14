@@ -1,0 +1,3 @@
+This bookmarklet creates an overlay at the top right of the screen with an input and a button.  
+In the input, type the word you want to define (be 100% accurate and use present tense unmodified versions of the word) then press Search button.  
+It will return the definition in the overlay below the input.
