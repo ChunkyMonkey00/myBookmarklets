@@ -1,0 +1,6 @@
+NOTE: ONLY APPLICABLE FOR BFHS STUDENTS  
+This script creates an overlay for the entire screen. After clicking the bookmark, click back on the page to return focus to the page.  
+Press "o" to toggle between an image of plus portals login and your normal webpage.  
+
+This does NOT switch the page it only looks like it does.  
+It also renames the title of the page Plus Portals and attempts to get rid of the favicon.
